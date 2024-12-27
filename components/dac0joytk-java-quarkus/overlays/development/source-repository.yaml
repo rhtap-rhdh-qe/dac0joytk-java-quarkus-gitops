@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dac0joytk-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dac0joytk-java-quarkus
